@@ -1,0 +1,8 @@
+WIDTH, HEIGHT = 600, 400
+CELL = 20
+FPS = 10
+
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+GREEN = (0, 200, 0)
+RED = (200, 0, 0)
